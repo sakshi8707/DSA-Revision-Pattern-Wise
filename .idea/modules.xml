@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DS-ALGO-PATTERNS.iml" filepath="$PROJECT_DIR$/.idea/DS-ALGO-PATTERNS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns-and-Technique/DS-ALGO-Patterns-and-Technique.iml" filepath="$PROJECT_DIR$/Patterns-and-Technique/DS-ALGO-Patterns-and-Technique.iml" />
+    </modules>
+  </component>
+</project>
